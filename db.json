@@ -1,0 +1,32 @@
+{
+    "country": [
+        {
+            "country": "рппср",
+            "image": "рпррп",
+            "description": "мс",
+            "id": 1
+        },
+        {
+            "country": "sdkfbsaf",
+            "image": "nsbdf",
+            "description": "kbfakslf",
+            "id": 2
+        },
+        {
+            "country": "bwekrbqwkr",
+            "image": "kjwebrk",
+            "description": "kbwker",
+            "id": 3
+        }
+    ],
+    "cars-germany": [
+        {
+            "country": "mercedes benz",
+            "image": "https://avatars.mds.yandex.net/get-verba/787013/2a000001609d68a5dcce5ef616ae987f97db/cattouchret",
+            "description": "jhgjhgffffffffkjhtrewqwryukmnbvcfdrtry",
+            "id": 1
+        }
+    ],
+    "cars-japan": [],
+    "cars-usa": []
+}
